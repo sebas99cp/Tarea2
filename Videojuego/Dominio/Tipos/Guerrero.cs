@@ -1,4 +1,6 @@
-﻿namespace Videojuego.Dominio.Tipos
+﻿using Videojuego.Dominio.Propiedades;
+
+namespace Videojuego.Dominio.Tipos
 {
     public class Guerrero : TipoPersonaje
     {

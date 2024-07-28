@@ -17,7 +17,7 @@ namespace Videojuego.Dominio.Tipos
                 new Habilidad("Disparo certero", "Dispara una flecha con gran precisión", 1),
                 new Habilidad("Flecha envenenada", "Dispara una flecha envenenada", 2),
                 new Habilidad("Flecha de fuego", "Dispara una flecha que explota al impactar", 3)
-        };
+            };
         }
     }
 }

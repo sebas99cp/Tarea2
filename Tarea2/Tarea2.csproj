@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GestionTareas\GestionTareas.csproj" />
+    <ProjectReference Include="..\MensajeriaTiempReal\Mensajeria.csproj" />
     <ProjectReference Include="..\Videojuego\Videojuego.csproj" />
   </ItemGroup>
 

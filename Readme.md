@@ -15,4 +15,4 @@ Patrón usado: Command
 ![Diagrama de clases](Tarea2-GestionTareas.png)
 # Ejercicio 5: Decoracion Hotel
 Patrón usado: Builder
-![Diagrama de clases](Tarea2-DecoraciónHotel.png)
+![Diagrama de clases](Tarea2-DecoracionHotel.png)

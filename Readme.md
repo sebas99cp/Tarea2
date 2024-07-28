@@ -4,6 +4,22 @@
 - Karen Dayana Martinez Perez
 - Geovanny Tovar Ceballos
 
+# Ejercicio 1: Videojuego
+Patr贸n usado: Prototype
+
+![Diagrama de clases](Tarea2-Videojuego.png)
+
 # Ejercicio 2: Mensajeria
-Patr髇 usado: Observer
+Patr贸n usado: Observer
+
 ![Diagrama de clases](Tarea2-Mensajeria.png)
+
+# Ejercicio 4: Gestion Tareas
+Patr贸n usado: Command
+
+![Diagrama de clases](Tarea2-GestionTareas.png)
+
+# Ejercicio 5: Decoracion Hotel
+Patr贸n usado: Builder
+
+![Diagrama de clases](Tarea2-DecoracionHotel.png)

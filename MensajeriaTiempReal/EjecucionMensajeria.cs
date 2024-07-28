@@ -6,6 +6,8 @@ namespace Mensajeria
     {
         public static void Main()
         {
+            Console.WriteLine("Empezando ejercicio 2 - Mensajería");
+
             EmpresaNotificadora empresaNotificadora = new EmpresaNotificadora();
 
             //creación de usuario 1

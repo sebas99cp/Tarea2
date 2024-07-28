@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DecoracionHotel\DecoracionHotel.csproj" />
     <ProjectReference Include="..\GestionTareas\GestionTareas.csproj" />
     <ProjectReference Include="..\Videojuego\Videojuego.csproj" />
   </ItemGroup>

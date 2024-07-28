@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Videojuego.Dominio.Propiedades;
+﻿using Videojuego.Dominio.Propiedades;
 using Videojuego.Dominio.Tipos;
 
 namespace Videojuego.Dominio

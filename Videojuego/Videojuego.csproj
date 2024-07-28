@@ -2,13 +2,15 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Aplicacion\" />
+    <Compile Remove="Aplicacion\**" />
+    <EmbeddedResource Remove="Aplicacion\**" />
+    <None Remove="Aplicacion\**" />
   </ItemGroup>
 
 </Project>

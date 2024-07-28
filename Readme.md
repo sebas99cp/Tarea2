@@ -6,4 +6,4 @@
 
 # Ejercicio 2: Mensajeria
 Patrón usado: Observer
-![Diagrama de clases](Tarea2-Mensajeria.drawio.png)
+![Diagrama de clases](Tarea2-Mensajeria.png)

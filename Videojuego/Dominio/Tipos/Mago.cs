@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Videojuego.Dominio.Propiedades;
-
-namespace Videojuego.Dominio.Tipos
+﻿namespace Videojuego.Dominio.Tipos
 {
     public class Mago : TipoPersonaje
     {

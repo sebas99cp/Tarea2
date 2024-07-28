@@ -10,13 +10,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43E22CA6-914D-4536-9412-2F95D0E818F4}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.md = Readme.md
+		..\..\..\Downloads\Tarea2-Mensajeria.drawio.png = ..\..\..\Downloads\Tarea2-Mensajeria.drawio.png
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionTareas", "GestionTareas\GestionTareas.csproj", "{83DE44DB-B76D-4EDA-AD91-84A31813AE4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionTareas", "GestionTareas\GestionTareas.csproj", "{83DE44DB-B76D-4EDA-AD91-84A31813AE4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoracionHotel", "DecoracionHotel\DecoracionHotel.csproj", "{BA9C0C4A-A2CA-48D0-B90A-D744B0753F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoracionHotel", "DecoracionHotel\DecoracionHotel.csproj", "{BA9C0C4A-A2CA-48D0-B90A-D744B0753F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mensajeria", "MensajeriaTiempReal\Mensajeria.csproj", "{19367E87-4502-4586-B657-93543D758AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mensajeria", "MensajeriaTiempReal\Mensajeria.csproj", "{19367E87-4502-4586-B657-93543D758AB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

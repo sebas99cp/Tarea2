@@ -8,6 +8,8 @@ namespace Videojuego
     {
         public static void Main()
         {
+            Console.WriteLine("Empezando ejercicio 1:  videojuego");
+
             //creacion de un usuario
             Usuario usuario1 = new Usuario("Mahecha");
             Console.WriteLine(usuario1.Nickname);

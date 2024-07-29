@@ -1,0 +1,10 @@
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\bin\Debug\Tarea2P3.exe.config
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\bin\Debug\Tarea2P3.exe
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\bin\Debug\Tarea2P3.pdb
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\bin\Debug\GestionRestaurante.dll
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\bin\Debug\GestionRestaurante.pdb
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\obj\Debug\Tarea2P3.csprojAssemblyReference.cache
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\obj\Debug\Tarea2P3.csproj.CoreCompileInputs.cache
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\obj\Debug\Tarea2P3.csproj.CopyComplete
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\obj\Debug\Tarea2P3.exe
+E:\Personal\Sabana\Tarea2P3\Tarea2P3\obj\Debug\Tarea2P3.pdb

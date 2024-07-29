@@ -1,0 +1,5 @@
+E:\Personal\Sabana\Tarea2P3\GestionRestaurante\bin\Debug\GestionRestaurante.dll
+E:\Personal\Sabana\Tarea2P3\GestionRestaurante\bin\Debug\GestionRestaurante.pdb
+E:\Personal\Sabana\Tarea2P3\GestionRestaurante\obj\Debug\GestionRestaurante.csproj.CoreCompileInputs.cache
+E:\Personal\Sabana\Tarea2P3\GestionRestaurante\obj\Debug\GestionRestaurante.dll
+E:\Personal\Sabana\Tarea2P3\GestionRestaurante\obj\Debug\GestionRestaurante.pdb

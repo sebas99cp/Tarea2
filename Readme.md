@@ -14,6 +14,12 @@ Patrón usado: Observer
 
 ![Diagrama de clases](Tarea2-Mensajeria.png)
 
+# Ejercicio 3: Gestión de Restaurantes
+Patrón usado: Template Method
+
+
+
+
 # Ejercicio 4: Gestion Tareas
 Patrón usado: Command
 

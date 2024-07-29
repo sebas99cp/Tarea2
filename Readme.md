@@ -17,7 +17,7 @@ Patrón usado: Observer
 # Ejercicio 3: Gestión de Restaurantes
 Patrón usado: Template Method
 
-
+![Diagrama de clases](Tarea2-Restaurante.png)
 
 
 # Ejercicio 4: Gestion Tareas
